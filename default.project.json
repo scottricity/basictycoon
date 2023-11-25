@@ -1,0 +1,35 @@
+{
+  "name": "basictycoon",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedFirst": {
+      "$ignoreUnknownInstances": true,
+      "$path": "src/first"
+    },
+
+    "ReplicatedStorage": {
+      "$ignoreUnknownInstances": true,
+      "$path": "src/shared",
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
+
+    "ServerScriptService": {
+      "$ignoreUnknownInstances": true,
+      "$path": "src/server"
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$ignoreUnknownInstances": true,
+        "$path": "src/client"
+      },
+      "StarterCharacterScripts": {
+        "$path": "src/common",
+        "$ignoreUnknownInstances": true
+      }
+    }
+  }
+}
