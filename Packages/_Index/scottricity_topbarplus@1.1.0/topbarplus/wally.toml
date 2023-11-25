@@ -1,6 +1,6 @@
 [package]
 name = "scottricity/topbarplus"
-version = "1.0.0"
+version = "1.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 description = "Forked from https://github.com/iamEvanYT/TopbarPlus"

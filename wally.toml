@@ -18,7 +18,7 @@ ProfileService = "scottricity/profileservice@^0.2.0"
 ReplicaService = "scottricity/replicaservice@^0.2.0"
 
 #UI Framework
-TopbarPlus = "scottricity/topbarplus@1.0.0"
+TopbarPlus = "scottricity/topbarplus@1.1.0"
 Fusion = "elttob/fusion@0.2.0"
 
 Knit = "sleitnick/knit@1.5.3"

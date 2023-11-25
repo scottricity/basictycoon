@@ -1,1 +1,1 @@
-return require(script.Parent._Index["scottricity_topbarplus@1.0.0"]["topbarplus"])
+return require(script.Parent._Index["scottricity_topbarplus@1.1.0"]["topbarplus"])
